@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome to my profile! 👋
 
-<!--
-**FelypeFelps/FelypeFelps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luis Felype, and I’m currently a Systems Analysis and Development student working on building a solid foundation in programming through my first projects. My current focus is understanding and applying essential concepts.
 
-Here are some ideas to get you started:
+### Current Study Areas
+- Programming: Python and C  
+- Version control with Git and GitHub  
+- Logic and problem-solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I'm Currently Learning
+- Python  
+- C  
+
+### What You Will Find in My Repositories
+- Exercises solved by me  
+
+### Study Interests
+- Python and JavaScript for backend development  
+- CRUD application development  
+- Automation and simple integrations  
+- Basic authentication and authorization systems  
+- Code organization and clean structure  
+
+### Contact
+- Email: l.felype@outlook.com  
+- LinkedIn: linkedin.com/in/lfelypemss
