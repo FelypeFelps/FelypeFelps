@@ -23,4 +23,3 @@ My name is Luis Felype, and I’m currently a Systems Analysis and Development s
 
 ### Contact
 - Email: l.felype@outlook.com  
-- LinkedIn: linkedin.com/in/lfelypemss
