@@ -26,7 +26,7 @@ I’m currently a Systems Analysis and Development student, working on building 
 - I’m a huge fan of Resident Evil 4 (2005);
 - I enjoy playing the pandeiro;
 - I’ve created over 80 Spotify playlists — yes, I get carried away;
-- I love reading, working out, and solving puzzles in my free time. 
+- My free time usually goes to reading, working out, and solving puzzles.
 
 ### Contact:
 - Email: l.felype@outlook.com  
