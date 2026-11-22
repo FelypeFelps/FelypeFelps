@@ -1,32 +1,47 @@
-## Welcome to my profile! 👋
+# Hey, I'm Luis Felype!
 
-I’m currently a Systems Analysis and Development student, working on building a solid foundation in programming through my first projects. My current focus is understanding and applying essential concepts.
+**Systems Analysis and Development Student | Computer Vision & Applied AI**
 
-### Current Study Areas:
-- Programming: Prolog;  
-- Version control with Git and GitHub;  
-- Logic and problem-solving.  
+I'm an undergraduate student at the **Federal Institute of Maranhão (IFMA), Brazil**, interested in software development, artificial intelligence, and solving real-world problems through technology.
 
-### Languages I'm Currently Learning:
-- Python;  
-- C;
-- ProLog.  
+Currently, I'm involved in scientific research and technology projects, exploring how computer vision and machine learning can be applied in healthcare and retail.
 
-### What You Will Find in My Repositories:
-- Exercises solved by me.  
+### What I'm working on
 
-### Study Interests:
-- Python and JavaScript for backend development;  
-- CRUD application development;  
-- Automation and simple integrations;  
-- Basic authentication and authorization systems;  
-- Code organization and clean structure.
+**Scientific Research — PIBIC / IFMA**
 
-### Fun Facts:
-- I’m a huge fan of Resident Evil 4 (2005);
-- I enjoy playing the pandeiro;
-- I’ve created over 80 Spotify playlists — yes, I get carried away;
-- My free time usually goes to reading, working out, and solving puzzles.
+*Impact of Digital Image Preprocessing on Endoscopic Lesion Classification*
 
-### Contact:
-- Email: l.felype@outlook.com  
+- Investigating the effects of image preprocessing on medical image classification using **ResNet-50**.
+- Working with the **HyperKvasir** dataset and techniques such as CLAHE and bilateral filtering.
+- Developing and evaluating deep learning experiments with Python and PyTorch.
+
+**CartAI — Smart Shopping Cart**
+
+- Participating in the development of a smart shopping cart solution powered by computer vision.
+- Exploring object detection, product recognition, and retail automation.
+- Working on practical challenges involving AI models and real-world applications.
+
+### Technologies & Tools
+
+- **Programming:** Python, Java, SQL
+- **AI & Computer Vision:** PyTorch, OpenCV, YOLO, CNNs
+- **Development:** Git, GitHub, JavaFX
+- **Currently exploring:** Software architecture, databases, backend development, and machine learning.
+
+### What I'm interested in
+
+I'm particularly interested in the intersection of **software engineering, artificial intelligence, and applied research**.
+
+I enjoy understanding how things work, experimenting with different approaches, and turning theoretical knowledge into practical solutions.
+
+### Beyond coding
+
+Outside technology, I enjoy reading, working out, gaming, and solving puzzles.
+
+### Let's connect
+
+- **LinkedIn:** [My professional profile](https://www.linkedin.com/in/lfelypemss/)
+- **GitHub:** [@FelypeFelps](https://github.com/FelypeFelps/)
+
+*Always learning, experimenting, and building.*
